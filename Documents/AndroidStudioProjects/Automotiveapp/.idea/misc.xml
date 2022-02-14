@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_buyer_checkout.xml" value="0.20989583333333334" />
+        <entry key="app/src/main/res/layout/activity_buyer_complete_order.xml" value="0.20989583333333334" />
+        <entry key="app/src/main/res/layout/activity_buyer_delivery_method.xml" value="0.19791666666666666" />
+        <entry key="app/src/main/res/layout/activity_buyer_location.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_buyer_login.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_buyer_products.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_buyer_rst_password.xml" value="0.20989583333333334" />
+        <entry key="app/src/main/res/layout/activity_buyer_sign_up.xml" value="0.20989583333333334" />
+        <entry key="app/src/main/res/layout/activity_buyer_start.xml" value="0.20989583333333334" />
+        <entry key="app/src/main/res/layout/activity_buyer_verification.xml" value="0.20989583333333334" />
+        <entry key="app/src/main/res/layout/activity_buyer_view_cart.xml" value="0.15" />
+        <entry key="app/src/main/res/layout/activity_categories.xml" value="0.20989583333333334" />
+        <entry key="app/src/main/res/layout/activity_compplete_orders.xml" value="0.17" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1388888888888889" />
+        <entry key="app/src/main/res/layout/activity_navigation.xml" value="0.20989583333333334" />
+        <entry key="app/src/main/res/layout/activity_notification.xml" value="0.21" />
+        <entry key="app/src/main/res/layout/activity_payment_method.xml" value="0.20989583333333334" />
+        <entry key="app/src/main/res/layout/activity_payment_successfull.xml" value="0.20989583333333334" />
+        <entry key="app/src/main/res/layout/activity_pending_orders.xml" value="0.20989583333333334" />
+        <entry key="app/src/main/res/layout/activity_reset_password.xml" value="0.20989583333333334" />
+        <entry key="app/src/main/res/layout/activity_seller_location.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_seller_login.xml" value="0.20989583333333334" />
+        <entry key="app/src/main/res/layout/activity_seller_reset_password.xml" value="0.20989583333333334" />
+        <entry key="app/src/main/res/layout/activity_seller_sign_up.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_seller_verification.xml" value="0.20989583333333334" />
+        <entry key="app/src/main/res/layout/activity_seller_working_hours.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_update_products.xml" value="0.20989583333333334" />
+        <entry key="app/src/main/res/layout/categories_item_list.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_buyer_product.xml" value="0.20989583333333334" />
+        <entry key="app/src/main/res/layout/fragment_category.xml" value="0.20989583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
